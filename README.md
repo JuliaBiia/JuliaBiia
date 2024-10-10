@@ -3,7 +3,7 @@
 
 
 
-<h5 align="left">Sobre ME</h5>
+<h5 align="left">ABOUT ME</h5>
 
 ###
 
